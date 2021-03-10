@@ -1,0 +1,4 @@
+11/Mar/2021:01:02:56 979 [Calculator.java] [INFO] calculator.Calculator [SQUARE ROOT] - sqrt( 64.0)
+11/Mar/2021:01:02:56 983 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 8.0
+11/Mar/2021:01:03:08 485 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 7!
+11/Mar/2021:01:03:08 486 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 5040.0
