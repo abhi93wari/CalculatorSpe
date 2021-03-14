@@ -2,3 +2,29 @@
 11/Mar/2021:01:02:56 983 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 8.0
 11/Mar/2021:01:03:08 485 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 7!
 11/Mar/2021:01:03:08 486 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 5040.0
+13/Mar/2021:21:41:13 902 [Calculator.java] [INFO] calculator.Calculator [x raised to y] - -2.0 ^ 2.4
+13/Mar/2021:21:41:13 923 [Calculator.java] [INFO] calculator.Calculator [RESULT - x raised to y] - NaN
+13/Mar/2021:21:41:19 321 [Calculator.java] [INFO] calculator.Calculator [SQUARE ROOT] - sqrt( -45.0)
+13/Mar/2021:21:41:19 323 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - SQUARE ROOT] - Cannot find square root of negative number Case of NaN negative square root
+13/Mar/2021:21:41:19 326 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - NaN
+13/Mar/2021:21:41:48 314 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
+14/Mar/2021:02:18:32 902 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG] - (100.0)
+14/Mar/2021:02:18:32 912 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 4.605170185988092
+14/Mar/2021:02:18:36 066 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
+14/Mar/2021:02:22:22 102 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 7!
+14/Mar/2021:02:22:22 117 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 5040.0
+14/Mar/2021:02:22:28 799 [Calculator.java] [INFO] calculator.Calculator [x raised to y] - 6.0 ^ 3.0
+14/Mar/2021:02:22:28 801 [Calculator.java] [INFO] calculator.Calculator [RESULT - x raised to y] - 216.0
+14/Mar/2021:02:22:37 189 [Calculator.java] [INFO] calculator.Calculator [SQUARE ROOT] - sqrt( 89.0)
+14/Mar/2021:02:22:37 191 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 9.433981132056603
+14/Mar/2021:02:22:41 025 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
+15/Mar/2021:00:59:04 781 [Calculator.java] [INFO] main - [NATURAL LOG] - (100.0)
+15/Mar/2021:00:59:04 784 [Calculator.java] [INFO] main - [RESULT - NATURAL LOG] - 4.605170185988092
+15/Mar/2021:00:59:12 364 [Calculator.java] [INFO] main - [FACTORIAL] - 15!
+15/Mar/2021:00:59:12 365 [Calculator.java] [INFO] main - [RESULT - FACTORIAL] - 2.004310016E9
+15/Mar/2021:00:59:19 306 [Calculator.java] [ERROR] main - Invalid input, Entered input is not a number
+15/Mar/2021:01:00:29 558 [Calculator.java] [INFO] factorial - [FACTORIAL] - 7!
+15/Mar/2021:01:00:29 575 [Calculator.java] [INFO] factorial - [RESULT - FACTORIAL] - 5040.0
+15/Mar/2021:01:00:38 472 [Calculator.java] [INFO] power - [x raised to y] - 3.0 ^ 7.0
+15/Mar/2021:01:00:38 473 [Calculator.java] [INFO] power - [RESULT - x raised to y] - 2187.0
+15/Mar/2021:01:00:43 178 [Calculator.java] [ERROR] main - Invalid input, Entered input is not a number
